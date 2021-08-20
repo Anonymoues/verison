@@ -1,3 +1,4 @@
 1. Offical release.
 2. Remade ui(current one)
 3. fixed some bugs
+4. added some features.
